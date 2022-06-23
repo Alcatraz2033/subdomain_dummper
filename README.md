@@ -1,9 +1,10 @@
 ## Bienvenido a Subdomain Dummper
-Este es un script creado para poder buscar en base al nombre y apellido, todos las personas registradas con ese nombre mas su número de cédula. Este programa es 
-múy util para encontrar información de la persona que estas buscando. APLICA SOLO PARA ECUADOR.
+Este es un scrip diseñaso para encontrar subdominios en base a la transparencia del certificado Secure Sockets Layer (SSL). Esto nos ayuda en encotrar 
+subdominios sin necesidad de haecer ataque de fuerza bruta, los ataques de fuerza bruta a subdominios son muy ruidosos y dejan rastro. Este script es 
+rápido, seguro y no deja rastro.
 
 <p align="left">
-	<img src="https://i.imgur.com/7xtian7.png" width="50%" height="50%" align="">
+	<img src="https://i.imgur.com/ReLpCMm.png" width="50%" height="50%" align="">
 </p>
 
 ## Instalación
