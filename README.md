@@ -13,6 +13,7 @@ Clonar el repositorio
 
 ```markdown
 pip install tabulate
+pip install pwn
 git clone https://github.com/Alcatraz2033/subdomain_dummper.git
 python3 subdomain_dummper.py
 ```
