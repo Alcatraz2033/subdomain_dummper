@@ -1,7 +1,6 @@
 import requests, json, signal
 from pwn import *
 from tabulate import tabulate
-from bs4 import BeautifulSoup
 
 BLACK = '\033[30m'
 RED = '\033[31m'
@@ -39,8 +38,7 @@ banner = f"""{CYAN}
 ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝           
 {RESET}"""
 
-def request(r):
-    p = BeautifulSoup(r.text, 'html5lib')    
+def request(r):   
     for i in json.loads(r.text):
         name.append(i['common_name'])
     name2 = list(set(name))
