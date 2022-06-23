@@ -3,7 +3,7 @@ Este es un script creado para poder buscar en base al nombre y apellido, todos l
 múy util para encontrar información de la persona que estas buscando. APLICA SOLO PARA ECUADOR.
 
 <p align="left">
-	<img src="https://i.imgur.com/VzJhK9C.png" width="50%" height="50%" align="">
+	<img src="https://i.imgur.com/7xtian7.png" width="50%" height="50%" align="">
 </p>
 
 ## Instalación
@@ -12,6 +12,6 @@ Clonar el repositorio
 
 ```markdown
 pip install tabulate
-git clone https://github.com/Alcatraz2033/Ecuador-ID.git
+git clone https://github.com/Alcatraz2033/subdomain_dummper.git
 python3 subdomain_dummper.py
 ```
